@@ -14,5 +14,11 @@ Paper disproves Spock<br />
 Spock vaporizes Rock<br />
 Rock crushes Scissors<br />
 
+Assignment 2 was
+
+Assignment 3 was
+
+Assignment 4 was
+
 
 
