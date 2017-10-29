@@ -2,10 +2,14 @@
 
 int main(int argc, char const *argv[])
 {
-	char sentence [30];
+	int number = 0;
+	int area = 0;
 
-	printf("hello world\n");
-	fgets(sentence,30,stdin);
-	printf("This is the sentence: %s\n", sentence);
+	printf("Please print in the length of a side?\n");
+	scanf("%d", &number);
+
+	area = number*number;
+
+	printf("The are of the square is: %d\n", area );
 	return 0;
 }
